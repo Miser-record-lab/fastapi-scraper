@@ -2,4 +2,6 @@ fastapi
 uvicorn
 selenium
 webdriver-manager
+gunicorn
+chromedriver-autoinstaller
 
